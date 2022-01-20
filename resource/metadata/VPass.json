@@ -1,0 +1,12 @@
+{
+  "name": "V.Pass",
+  "tokenId": 1,
+  "image": "https://anonverse.space/resource/metadata/anon-face.png",
+  "animation_url": "https://anonverse.space/resource/NFT/N-VPass.mp4",
+  "attributes": [
+    {
+      "trait_type": "luckyNumber",
+      "value": 999
+    }
+  ]
+}
