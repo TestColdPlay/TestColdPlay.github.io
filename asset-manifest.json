@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.e0975b41.chunk.css",
-    "main.js": "/static/js/main.c10b8de1.chunk.js",
+    "main.js": "/static/js/main.d5d75b6d.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f0a33da4.js",
-    "static/js/2.920cb688.chunk.js": "/static/js/2.920cb688.chunk.js",
+    "static/js/2.e3b1b428.chunk.js": "/static/js/2.e3b1b428.chunk.js",
     "static/js/3.b3675c56.chunk.js": "/static/js/3.b3675c56.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.920cb688.chunk.js.LICENSE.txt": "/static/js/2.920cb688.chunk.js.LICENSE.txt",
+    "static/js/2.e3b1b428.chunk.js.LICENSE.txt": "/static/js/2.e3b1b428.chunk.js.LICENSE.txt",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/bg-anon.png": "/static/media/bg-anon.3b9a03ee.png",
     "static/media/bg-chessman.png": "/static/media/bg-chessman.88ca4296.png",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f0a33da4.js",
-    "static/js/2.920cb688.chunk.js",
+    "static/js/2.e3b1b428.chunk.js",
     "static/css/main.e0975b41.chunk.css",
-    "static/js/main.c10b8de1.chunk.js"
+    "static/js/main.d5d75b6d.chunk.js"
   ]
 }
