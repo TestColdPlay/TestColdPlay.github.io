@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.969fd770.chunk.css",
-    "main.js": "/static/js/main.d438bae3.chunk.js",
+    "main.js": "/static/js/main.7a18041b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.2d0d53aa.js",
     "static/js/2.a1ad1b02.chunk.js": "/static/js/2.a1ad1b02.chunk.js",
     "static/js/3.4da3ef7b.chunk.js": "/static/js/3.4da3ef7b.chunk.js",
     "index.html": "/index.html",
     "static/js/2.a1ad1b02.chunk.js.LICENSE.txt": "/static/js/2.a1ad1b02.chunk.js.LICENSE.txt",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
-    "static/media/bg-anon.png": "/static/media/bg-anon.3b9a03ee.png",
+    "static/media/bg-anon.png": "/static/media/bg-anon.bbb91a4d.png",
     "static/media/bg-chessman.png": "/static/media/bg-chessman.88ca4296.png",
     "static/media/bg-dao.webm": "/static/media/bg-dao.a52db43c.webm",
     "static/media/bg-game.webm": "/static/media/bg-game.884e8118.webm",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.2d0d53aa.js",
     "static/js/2.a1ad1b02.chunk.js",
     "static/css/main.969fd770.chunk.css",
-    "static/js/main.d438bae3.chunk.js"
+    "static/js/main.7a18041b.chunk.js"
   ]
 }
