@@ -1,0 +1,202 @@
+{
+  "0": {
+    "name": "Anonverse Tower NFT Video",
+    "image": "https://anonverse.space/resource/Anonverse-256.png",
+    "animation_url": "https://anonverse.space/resource/NFT/R-02.mp4",
+    "attributes": {
+      "scarcity": "rare",
+      "format": "Video art",
+      "theme": "Pop art",
+      "tags": [
+        "video"
+      ],
+      "asset_type": "video/mp4",
+      "asset_size_in_bytes": 2100095,
+      "production_year": "2022"
+    },
+    "cover_image_set": true
+  },
+  "1126": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-06.mp4"
+  },
+  "5218": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-18.mp4"
+  },
+  "6181": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-14.mp4"
+  },
+  "14250": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-03.mp4"
+  },
+  "18289": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-05.mp4"
+  },
+  "18969": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-01.mp4"
+  },
+  "19997": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-15.mp4"
+  },
+  "22001": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-04.mp4"
+  },
+  "25208": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-08.mp4"
+  },
+  "26834": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-20.mp4"
+  },
+  "28142": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-17.mp4"
+  },
+  "30982": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-11.mp4"
+  },
+  "31738": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-04.mp4"
+  },
+  "34916": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-13.mp4"
+  },
+  "41005": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-03.mp4"
+  },
+  "42509": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-02.mp4"
+  },
+  "45759": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-07.mp4"
+  },
+  "46244": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-07.mp4"
+  },
+  "46812": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-07.mp4"
+  },
+  "48749": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-09.mp4"
+  },
+  "49144": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-04.mp4"
+  },
+  "49647": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-17.mp4"
+  },
+  "50102": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-11.mp4"
+  },
+  "52371": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-01.mp4"
+  },
+  "54646": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-12.mp4"
+  },
+  "55447": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-02.mp4"
+  },
+  "58047": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-05.mp4"
+  },
+  "58081": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-11.mp4"
+  },
+  "59697": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-16.mp4"
+  },
+  "60351": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-10.mp4"
+  },
+  "61130": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-19.mp4"
+  },
+  "62667": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-02.mp4"
+  },
+  "63503": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-01.mp4"
+  },
+  "64171": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-17.mp4"
+  },
+  "64629": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-20.mp4"
+  },
+  "66008": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-08.mp4"
+  },
+  "66190": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-06.mp4"
+  },
+  "68006": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-01.mp4"
+  },
+  "69342": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-14.mp4"
+  },
+  "69460": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-02.mp4"
+  },
+  "70755": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-09.mp4"
+  },
+  "70855": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-05.mp4"
+  },
+  "72931": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-10.mp4"
+  },
+  "79111": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-18.mp4"
+  },
+  "80287": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-13.mp4"
+  },
+  "80560": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-16.mp4"
+  },
+  "80670": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-09.mp4"
+  },
+  "81807": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-01.mp4"
+  },
+  "82932": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-19.mp4"
+  },
+  "83691": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-04.mp4"
+  },
+  "85233": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-06.mp4"
+  },
+  "87108": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-03.mp4"
+  },
+  "87731": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-03.mp4"
+  },
+  "92177": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-18.mp4"
+  },
+  "92386": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-18.mp4"
+  },
+  "92593": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-05.mp4"
+  },
+  "93289": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-03.mp4"
+  },
+  "94509": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-02.mp4"
+  },
+  "96785": {
+    "animation_url": "https://anonverse.space/resource/NFT/SSR-19.mp4"
+  },
+  "97020": {
+    "animation_url": "https://anonverse.space/resource/NFT/R-19.mp4"
+  },
+  "99878": {
+    "animation_url": "https://anonverse.space/resource/NFT/SR-18.mp4"
+  }
+}
