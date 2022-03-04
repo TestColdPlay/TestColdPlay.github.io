@@ -1,0 +1,20 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/R-20.png",
+  "animation_url": "https://anonverse.space/resource/NFT/R-20.mp4",
+  "attributes": {
+    "rarity": "R",
+    "cardId": "20",
+    "scarcity": "rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2092866,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}
+

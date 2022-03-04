@@ -1,0 +1,20 @@
+{
+  "name": "Anonverse Tower NFT",
+  "image": "https://anonverse.space/resource/NFT/SSR-12.png",
+  "animation_url": "https://anonverse.space/resource/NFT/SSR-12.mp4",
+  "attributes": {
+    "rarity": "SSR",
+    "cardId": "12",
+    "scarcity": "superior super rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2085145,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}
+
