@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.99137461.chunk.css",
-    "main.js": "/static/js/main.dd327c64.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.fd7bc638.js",
-    "static/js/2.f40dc322.chunk.js": "/static/js/2.f40dc322.chunk.js",
-    "static/js/3.3fce3ce2.chunk.js": "/static/js/3.3fce3ce2.chunk.js",
+    "main.js": "/static/js/main.ae4b5b29.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f0a33da4.js",
+    "static/js/2.77dcdde4.chunk.js": "/static/js/2.77dcdde4.chunk.js",
+    "static/js/3.b3675c56.chunk.js": "/static/js/3.b3675c56.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.f40dc322.chunk.js.LICENSE.txt": "/static/js/2.f40dc322.chunk.js.LICENSE.txt",
+    "static/js/2.77dcdde4.chunk.js.LICENSE.txt": "/static/js/2.77dcdde4.chunk.js.LICENSE.txt",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
+    "static/media/background.2ef02b3e.png": "/static/media/background.2ef02b3e.png",
     "static/media/bg-anon.png": "/static/media/bg-anon.bbb91a4d.png",
     "static/media/bg-chessman.png": "/static/media/bg-chessman.88ca4296.png",
     "static/media/bg-dao.webm": "/static/media/bg-dao.a52db43c.webm",
@@ -36,9 +37,9 @@
     "static/media/tokenomics.png": "/static/media/tokenomics.a9ce12a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd7bc638.js",
-    "static/js/2.f40dc322.chunk.js",
+    "static/js/runtime-main.f0a33da4.js",
+    "static/js/2.77dcdde4.chunk.js",
     "static/css/main.99137461.chunk.css",
-    "static/js/main.dd327c64.chunk.js"
+    "static/js/main.ae4b5b29.chunk.js"
   ]
 }
