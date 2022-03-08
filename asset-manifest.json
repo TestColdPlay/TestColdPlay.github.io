@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.99137461.chunk.css",
-    "main.js": "/static/js/main.0c1d9bee.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.f0a33da4.js",
-    "static/js/2.fd4f0ec9.chunk.js": "/static/js/2.fd4f0ec9.chunk.js",
-    "static/js/3.b3675c56.chunk.js": "/static/js/3.b3675c56.chunk.js",
+    "main.css": "/static/css/main.1a2125f7.chunk.css",
+    "main.js": "/static/js/main.94f8428b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.75efc52d.js",
+    "static/js/2.6eef614c.chunk.js": "/static/js/2.6eef614c.chunk.js",
+    "static/js/3.53541c6e.chunk.js": "/static/js/3.53541c6e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.fd4f0ec9.chunk.js.LICENSE.txt": "/static/js/2.fd4f0ec9.chunk.js.LICENSE.txt",
+    "static/js/2.6eef614c.chunk.js.LICENSE.txt": "/static/js/2.6eef614c.chunk.js.LICENSE.txt",
+    "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/background.2ef02b3e.png": "/static/media/background.2ef02b3e.png",
-    "static/media/bg-anon.png": "/static/media/bg-anon.bbb91a4d.png",
+    "static/media/bg-anon.png": "/static/media/bg-anon.0bc21a42.png",
+    "static/media/bg-btn-binanceNFT.png": "/static/media/bg-btn-binanceNFT.345dfd4c.png",
+    "static/media/bg-btn-transform.png": "/static/media/bg-btn-transform.af3db468.png",
     "static/media/bg-chessman.png": "/static/media/bg-chessman.88ca4296.png",
     "static/media/bg-dao.webm": "/static/media/bg-dao.a52db43c.webm",
     "static/media/bg-game.webm": "/static/media/bg-game.884e8118.webm",
@@ -17,7 +20,9 @@
     "static/media/bg-light.svg": "/static/media/bg-light.19714ae3.svg",
     "static/media/bg-nft.png": "/static/media/bg-nft.ae47f6ff.png",
     "static/media/bg-video.mp4": "/static/media/bg-video.d8298d95.mp4",
+    "static/media/binanceNFT.png": "/static/media/binanceNFT.bcede85a.png",
     "static/media/click.svg": "/static/media/click.100cd722.svg",
+    "static/media/close.181b5579.svg": "/static/media/close.181b5579.svg",
     "static/media/code.svg": "/static/media/code.3aea0829.svg",
     "static/media/coin-btc.svg": "/static/media/coin-btc.9f3814a2.svg",
     "static/media/coin-eth.svg": "/static/media/coin-eth.971f757e.svg",
@@ -37,9 +42,9 @@
     "static/media/tokenomics.png": "/static/media/tokenomics.a9ce12a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0a33da4.js",
-    "static/js/2.fd4f0ec9.chunk.js",
-    "static/css/main.99137461.chunk.css",
-    "static/js/main.0c1d9bee.chunk.js"
+    "static/js/runtime-main.75efc52d.js",
+    "static/js/2.6eef614c.chunk.js",
+    "static/css/main.1a2125f7.chunk.css",
+    "static/js/main.94f8428b.chunk.js"
   ]
 }
