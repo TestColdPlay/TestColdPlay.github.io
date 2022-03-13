@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1a2125f7.chunk.css",
-    "main.js": "/static/js/main.ff5281fd.chunk.js",
+    "main.js": "/static/js/main.90ee9853.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.75efc52d.js",
-    "static/js/2.6eef614c.chunk.js": "/static/js/2.6eef614c.chunk.js",
+    "static/js/2.36f3c1f1.chunk.js": "/static/js/2.36f3c1f1.chunk.js",
     "static/js/3.53541c6e.chunk.js": "/static/js/3.53541c6e.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.6eef614c.chunk.js.LICENSE.txt": "/static/js/2.6eef614c.chunk.js.LICENSE.txt",
+    "static/js/2.36f3c1f1.chunk.js.LICENSE.txt": "/static/js/2.36f3c1f1.chunk.js.LICENSE.txt",
     "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/background.2ef02b3e.png": "/static/media/background.2ef02b3e.png",
@@ -15,7 +15,6 @@
     "static/media/bg-btn-transform.png": "/static/media/bg-btn-transform.af3db468.png",
     "static/media/bg-chessman.png": "/static/media/bg-chessman.88ca4296.png",
     "static/media/bg-dao.webm": "/static/media/bg-dao.a52db43c.webm",
-    "static/media/bg-game.webm": "/static/media/bg-game.884e8118.webm",
     "static/media/bg-hacker.png": "/static/media/bg-hacker.74da2d63.png",
     "static/media/bg-light.svg": "/static/media/bg-light.19714ae3.svg",
     "static/media/bg-nft.png": "/static/media/bg-nft.ae47f6ff.png",
@@ -43,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.75efc52d.js",
-    "static/js/2.6eef614c.chunk.js",
+    "static/js/2.36f3c1f1.chunk.js",
     "static/css/main.1a2125f7.chunk.css",
-    "static/js/main.ff5281fd.chunk.js"
+    "static/js/main.90ee9853.chunk.js"
   ]
 }
