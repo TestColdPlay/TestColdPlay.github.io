@@ -1,0 +1,22 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/R-08.png",
+  "animation_url": "https://anonverse.space/resource/NFT/R-08.mp4",
+  "attributes": {
+    "name": "EOS",
+    "rarity": "R",
+    "cardId": "08",
+    "type": "0",
+    "showId": "30",
+    "scarcity": "rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2093366,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/R-10.png",
+  "animation_url": "https://anonverse.space/resource/NFT/R-10.mp4",
+  "attributes": {
+    "name": "SHIB",
+    "rarity": "R",
+    "cardId": "10",
+    "type": "0",
+    "showId": "38",
+    "scarcity": "rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2104924,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}

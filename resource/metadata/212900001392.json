@@ -1,0 +1,22 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/R-14.png",
+  "animation_url": "https://anonverse.space/resource/NFT/R-14.mp4",
+  "attributes": {
+    "name": "BNB",
+    "rarity": "R",
+    "cardId": "14",
+    "type": "0",
+    "showId": "54",
+    "scarcity": "rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2107277,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}

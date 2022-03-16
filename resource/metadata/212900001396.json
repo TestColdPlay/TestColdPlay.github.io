@@ -1,0 +1,22 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/SR-17.png",
+  "animation_url": "https://anonverse.space/resource/NFT/SR-17.mp4",
+  "attributes": {
+    "name": "DOT",
+    "rarity": "SR",
+    "cardId": "17",
+    "type": "0",
+    "showId": "67",
+    "scarcity": "super rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2100211,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}

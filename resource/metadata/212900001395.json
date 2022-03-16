@@ -1,0 +1,22 @@
+{
+  "name": "Anonverse Tower",
+  "image": "https://anonverse.space/resource/NFT/R-04.png",
+  "animation_url": "https://anonverse.space/resource/NFT/R-04.mp4",
+  "attributes": {
+    "name": "DOGE",
+    "rarity": "R",
+    "cardId": "04",
+    "type": "0",
+    "showId": "14",
+    "scarcity": "rare",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2074644,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}
