@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1a2125f7.chunk.css",
-    "main.js": "/static/js/main.5c8a9260.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.75efc52d.js",
-    "static/js/2.9aa0797e.chunk.js": "/static/js/2.9aa0797e.chunk.js",
-    "static/js/3.53541c6e.chunk.js": "/static/js/3.53541c6e.chunk.js",
+    "main.js": "/static/js/main.eb31acdc.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.94edc777.js",
+    "static/js/2.3c569887.chunk.js": "/static/js/2.3c569887.chunk.js",
+    "static/js/3.44837fca.chunk.js": "/static/js/3.44837fca.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.9aa0797e.chunk.js.LICENSE.txt": "/static/js/2.9aa0797e.chunk.js.LICENSE.txt",
+    "static/js/2.3c569887.chunk.js.LICENSE.txt": "/static/js/2.3c569887.chunk.js.LICENSE.txt",
     "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/background.2ef02b3e.png": "/static/media/background.2ef02b3e.png",
@@ -18,6 +18,7 @@
     "static/media/bg-hacker.png": "/static/media/bg-hacker.74da2d63.png",
     "static/media/bg-light.svg": "/static/media/bg-light.19714ae3.svg",
     "static/media/bg-nft.png": "/static/media/bg-nft.ae47f6ff.png",
+    "static/media/bg-stake.af4f38c8.jpg": "/static/media/bg-stake.af4f38c8.jpg",
     "static/media/bg-video.mp4": "/static/media/bg-video.d8298d95.mp4",
     "static/media/binanceNFT.png": "/static/media/binanceNFT.bcede85a.png",
     "static/media/click.svg": "/static/media/click.100cd722.svg",
@@ -41,9 +42,9 @@
     "static/media/tokenomics.png": "/static/media/tokenomics.a9ce12a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.75efc52d.js",
-    "static/js/2.9aa0797e.chunk.js",
+    "static/js/runtime-main.94edc777.js",
+    "static/js/2.3c569887.chunk.js",
     "static/css/main.1a2125f7.chunk.css",
-    "static/js/main.5c8a9260.chunk.js"
+    "static/js/main.eb31acdc.chunk.js"
   ]
 }
