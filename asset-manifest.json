@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a8473543.chunk.css",
-    "main.js": "/static/js/main.8b283afd.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e2d6515a.js",
-    "static/js/2.eb9fd1f3.chunk.js": "/static/js/2.eb9fd1f3.chunk.js",
-    "static/js/3.2739fafd.chunk.js": "/static/js/3.2739fafd.chunk.js",
+    "main.js": "/static/js/main.cfc64e84.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.af0dffdd.js",
+    "static/js/2.873e9d5e.chunk.js": "/static/js/2.873e9d5e.chunk.js",
+    "static/js/3.e96a43cf.chunk.js": "/static/js/3.e96a43cf.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.eb9fd1f3.chunk.js.LICENSE.txt": "/static/js/2.eb9fd1f3.chunk.js.LICENSE.txt",
+    "static/js/2.873e9d5e.chunk.js.LICENSE.txt": "/static/js/2.873e9d5e.chunk.js.LICENSE.txt",
     "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
+    "static/media/background.db3554d2.png": "/static/media/background.db3554d2.png",
     "static/media/bg-anon.png": "/static/media/bg-anon.0bc21a42.png",
     "static/media/bg-btn-binanceNFT.png": "/static/media/bg-btn-binanceNFT.345dfd4c.png",
     "static/media/bg-btn-transform.png": "/static/media/bg-btn-transform.af3db468.png",
@@ -36,15 +37,15 @@
     "static/media/game-demo.png": "/static/media/game-demo.3d53e566.png",
     "static/media/logo-crypto-war-v.png": "/static/media/logo-crypto-war-v.ae3d868b.png",
     "static/media/logo.760a646a.svg": "/static/media/logo.760a646a.svg",
-    "static/media/miracle-launch.e0d19fb5.png": "/static/media/miracle-launch.e0d19fb5.png",
     "static/media/percent.svg": "/static/media/percent.e468c6ca.svg",
     "static/media/play.svg": "/static/media/play.0dfbad02.svg",
-    "static/media/tokenomics.png": "/static/media/tokenomics.a9ce12a2.png"
+    "static/media/tokenomics.png": "/static/media/tokenomics.a9ce12a2.png",
+    "static/media/vvv-launch.b118c4cc.png": "/static/media/vvv-launch.b118c4cc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2d6515a.js",
-    "static/js/2.eb9fd1f3.chunk.js",
+    "static/js/runtime-main.af0dffdd.js",
+    "static/js/2.873e9d5e.chunk.js",
     "static/css/main.a8473543.chunk.css",
-    "static/js/main.8b283afd.chunk.js"
+    "static/js/main.cfc64e84.chunk.js"
   ]
 }
