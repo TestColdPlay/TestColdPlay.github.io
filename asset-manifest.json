@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.a8473543.chunk.css",
-    "main.js": "/static/js/main.8c77d20b.chunk.js",
+    "main.js": "/static/js/main.e37d3647.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.af0dffdd.js",
-    "static/js/2.873e9d5e.chunk.js": "/static/js/2.873e9d5e.chunk.js",
+    "static/js/2.1fc6f953.chunk.js": "/static/js/2.1fc6f953.chunk.js",
     "static/js/3.e96a43cf.chunk.js": "/static/js/3.e96a43cf.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.873e9d5e.chunk.js.LICENSE.txt": "/static/js/2.873e9d5e.chunk.js.LICENSE.txt",
+    "static/js/2.1fc6f953.chunk.js.LICENSE.txt": "/static/js/2.1fc6f953.chunk.js.LICENSE.txt",
     "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/background.db3554d2.png": "/static/media/background.db3554d2.png",
@@ -44,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.af0dffdd.js",
-    "static/js/2.873e9d5e.chunk.js",
+    "static/js/2.1fc6f953.chunk.js",
     "static/css/main.a8473543.chunk.css",
-    "static/js/main.8c77d20b.chunk.js"
+    "static/js/main.e37d3647.chunk.js"
   ]
 }
