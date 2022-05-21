@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.a8473543.chunk.css",
-    "main.js": "/static/js/main.17b58436.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.af0dffdd.js",
-    "static/js/2.1b5cfdc6.chunk.js": "/static/js/2.1b5cfdc6.chunk.js",
-    "static/js/3.e96a43cf.chunk.js": "/static/js/3.e96a43cf.chunk.js",
+    "main.js": "/static/js/main.adaa90fa.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.5c5560c1.js",
+    "static/js/2.d4a6928e.chunk.js": "/static/js/2.d4a6928e.chunk.js",
+    "static/js/3.69339ac2.chunk.js": "/static/js/3.69339ac2.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.1b5cfdc6.chunk.js.LICENSE.txt": "/static/js/2.1b5cfdc6.chunk.js.LICENSE.txt",
+    "static/js/2.d4a6928e.chunk.js.LICENSE.txt": "/static/js/2.d4a6928e.chunk.js.LICENSE.txt",
     "static/media/BinanceNFT.svg": "/static/media/BinanceNFT.d770c102.svg",
     "static/media/App.less": "/static/media/Quantico-Regular.9d0882b9.ttf",
     "static/media/background.db3554d2.png": "/static/media/background.db3554d2.png",
@@ -43,9 +43,9 @@
     "static/media/vvv-launch.b118c4cc.png": "/static/media/vvv-launch.b118c4cc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.af0dffdd.js",
-    "static/js/2.1b5cfdc6.chunk.js",
+    "static/js/runtime-main.5c5560c1.js",
+    "static/js/2.d4a6928e.chunk.js",
     "static/css/main.a8473543.chunk.css",
-    "static/js/main.17b58436.chunk.js"
+    "static/js/main.adaa90fa.chunk.js"
   ]
 }

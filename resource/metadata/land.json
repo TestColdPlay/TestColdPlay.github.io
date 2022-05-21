@@ -1,0 +1,23 @@
+{
+  "name": "Anonverse Land",
+  "image": "https://anonverse.space/resource/NFT/unopened-box.png",
+  "animation_url": "https://anonverse.space/resource/NFT/unopened-box.mp4",
+  "attributes": {
+    "name": "Anonverse Land",
+    "rarity": "R",
+    "cardId": "101",
+    "type": "0",
+    "showId": "0",
+    "scarcity": "unopened",
+    "format": "Video art",
+    "theme": "Pop art",
+    "tags": [
+      "video"
+    ],
+    "asset_type": "video/mp4",
+    "asset_size_in_bytes": 2436787,
+    "production_year": "2022"
+  },
+  "cover_image_set": true
+}
+
